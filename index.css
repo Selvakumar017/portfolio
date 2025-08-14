@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(248, 214, 172);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+    background-color: rgb(191, 189, 206);
+    padding: 20px;
+}
+h1{
+    color: rgb(7, 130, 245);
+}
+
+h1,ul{
+    text-align: center;
+}
+ul li{
+    display: inline;
+    padding-left: 60px;
+    padding-right: 60px;
+    color: rgb(184, 29, 29);
+    font-size: 20px;
+}
+ul a{
+    text-decoration: none;
+}
+a li:hover{
+    font-size: 23px ;
+    color: pink;
+}
+img{
+    border-radius: 10%;
+}
+
+#home{
+    text-align: center;
+}
+#home img{
+    height: 200px;
+    width: 200px;
+}
+#about{
+    text-align: center;
+}
+#about h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#skills li{
+   color: brown;
+}
+
+table,tr,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+table th{
+    background-color: yellowgreen;
+}
+table td{
+    background-color: rgb(248, 217, 178);
+}
+
+#about h1{
+    
+    color: red;
+}
+#about{
+    display:flex;
+    padding: 30px;
+}
+#about div{
+    padding: 40px;
+}
+  h1 {
+      text-align: center;
+    }
